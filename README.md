@@ -1,5 +1,4 @@
 # Aligned Layer ZK Quiz 
-<h1 align="center"> Aligned Layer
 
 ![image](https://github.com/molla202/AlignedLayer/assets/91562185/cb9fca1a-a370-4aee-b41d-546d27c4523b)
 
