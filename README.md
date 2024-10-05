@@ -31,7 +31,7 @@ curl -L https://foundry.paradigm.xyz | bash
 sudo apt update && sudo apt install pkg-config libssl-dev
 ```
 
-### 🚧İstediğiniz adresi import edin(tercihen burner adres) İçinde Holesky Eth bulunduğundan emin olun.
+### 🚧İstediğiniz adresi import edin (tercihen burner adres) İçinde Holesky Eth bulunduğundan emin olun.
 ```
 [ -d ~/.aligned_keystore ] && rm -rf ~/.aligned_keystore && echo "Deleted existing directory ~/.aligned_keystore." ; mkdir -p ~/.aligned_keystore && cast wallet import ~/.aligned_keystore/keystore0 --interactive
 ```
