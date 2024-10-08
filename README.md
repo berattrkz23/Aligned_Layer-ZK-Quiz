@@ -24,6 +24,9 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ### 🚧Foundry Kurulumu
 ```
 curl -L https://foundry.paradigm.xyz | bash
+source ~/.bashrc
+foundryup
+cast --version
 ```
 
 ### 🚧OpenSSL ve pkg-config kurulumu
